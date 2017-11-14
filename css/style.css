@@ -12,6 +12,11 @@
 	 overflow: hidden;
  }
 
+.container img {
+ 	height: 400px;
+ 	width: 600px;
+ }
+
 
 h2 a {
 	text-decoration: none;
